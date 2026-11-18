@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://williamsburgrestoration.com/sitemap.xml
